@@ -1,4 +1,4 @@
-#Execício 4
+# Execício 4
 
 Fazer uma aplicação de uma corrida de sapos, com 5 Threads, cada Thread
 controlando 1 sapo. Deve haver um tamanho máximo para cada pulo do sapo (em metros)
